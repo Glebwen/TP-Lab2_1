@@ -1,0 +1,17 @@
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\bin\Debug\net8.0-windows\TPLab-2_1.exe
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\bin\Debug\net8.0-windows\TPLab-2_1.dll.config
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\bin\Debug\net8.0-windows\TPLab-2_1.deps.json
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\bin\Debug\net8.0-windows\TPLab-2_1.runtimeconfig.json
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\bin\Debug\net8.0-windows\TPLab-2_1.dll
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\bin\Debug\net8.0-windows\TPLab-2_1.pdb
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab_2_1.Form1.resources
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab-2_1.csproj.GenerateResource.cache
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab-2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab-2_1.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab-2_1.AssemblyInfo.cs
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab-2_1.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab-2_1.dll
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\refint\TPLab-2_1.dll
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab-2_1.pdb
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\TPLab-2_1.genruntimeconfig.cache
+C:\Users\123\source\repos\TPLab-2_1\TPLab-2_1\obj\Debug\net8.0-windows\ref\TPLab-2_1.dll
